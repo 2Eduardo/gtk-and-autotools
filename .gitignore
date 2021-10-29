@@ -1,1 +1,15 @@
-/.vscode
+# IDE
+.vscode
+
+# Autotools
+aclocal.m4
+config.h.in
+configure
+Makefile
+Makefile.in
+autom4te.cache
+compile
+depcomp
+install-sh
+missing
+build
